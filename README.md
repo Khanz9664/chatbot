@@ -1,1 +1,30 @@
-# chatbot
+# chatbot - Cornell Movie Dialogs Dataset
+
+This project demonstrates the development of an interactive AI chatbot trained on the [Cornell Movie Dialogs dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). The chatbot uses Natural Language Processing (NLP) techniques to engage in dynamic conversations by learning from movie scripts. 
+
+## Project Overview
+
+The chatbot utilizes a combination of NLP methods such as tokenization, stemming, and word embeddings to understand and respond to user input. It is designed to hold simple, engaging conversations based on a vast corpus of movie dialogues.
+
+Key features include:
+- **Data Preprocessing:** Tokenization, lemmatization, and word embeddings for text processing.
+- **Chatbot Architecture:** A simple yet effective deep learning-based response generation model.
+- **Interactive User Interface:** Real-time conversation with the chatbot using a GUI.
+- **Customizable:** Easy to extend with new functionalities, datasets, or deep learning models.
+
+## Features
+
+- **Pretrained Model:** Build a basic model that understands and responds to user inputs.
+- **Response Generation:** Generate contextually relevant responses based on the Cornell Movie Dialogs dataset.
+- **Real-time Chat:** Engage in interactive conversation with the chatbot via a GUI interface.
+- **Extensible Framework:** Ready for adding advanced NLP techniques like sequence-to-sequence models, attention mechanisms, or deep learning architectures.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Khanz9664/chatbot.git
+cd chatbot
