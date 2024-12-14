@@ -19,6 +19,10 @@ Key features include:
 - **Real-time Chat:** Engage in interactive conversation with the chatbot via a GUI interface.
 - **Extensible Framework:** Ready for adding advanced NLP techniques like sequence-to-sequence models, attention mechanisms, or deep learning architectures.
 
+## Limitations
+
+- **Resource hungry:** You need to have a lot of resources to train and run this model locally on your PC (Minimum I5 10th gen, 8GB RAM & 4GB GPU)
+
 ## Installation
 
 To run this project locally, follow these steps:
