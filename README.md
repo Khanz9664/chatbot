@@ -16,7 +16,7 @@ Key features include:
 
 - **Pretrained Model:** Build a basic model that understands and responds to user inputs.
 - **Response Generation:** Generate contextually relevant responses based on the Cornell Movie Dialogs dataset.
-- **Real-time Chat:** Engage in interactive conversation with the chatbot via a GUI interface.
+- **Real-time Chat:** Engage in interactive conversation via a GUI interface with the chatbot.
 - **Extensible Framework:** Ready for adding advanced NLP techniques like sequence-to-sequence models, attention mechanisms, or deep learning architectures.
 
 ## Limitations
