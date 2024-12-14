@@ -1,2 +1,0 @@
-dataset link:
-https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus/
