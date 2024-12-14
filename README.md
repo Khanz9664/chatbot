@@ -1,4 +1,4 @@
-# chatbot - Cornell Movie Dialogs Dataset
+# Chatbot - Cornell Movie Dialogs Dataset
 
 This project demonstrates the development of an interactive AI chatbot trained on the [Cornell Movie Dialogs dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). The chatbot uses Natural Language Processing (NLP) techniques to engage in dynamic conversations by learning from movie scripts. 
 
