@@ -1,0 +1,7 @@
+dataset link:
+https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus/
+
+
+You only need to use 2 files:
+	movie_conversations.txt
+	movie_lines.txt
