@@ -4,7 +4,7 @@ This project demonstrates the development of an interactive AI chatbot trained o
 
 ## Project Overview
 
-The chatbot utilizes a combination of NLP methods such as tokenization, stemming, and word embeddings to understand and respond to user input. It is designed to hold simple, engaging conversations based on a vast corpus of movie dialogues.
+The chatbot employs various NLP techniques like tokenization, stemming, and word embeddings to interpret and reply to user input. It is crafted to engage in straightforward and entertaining dialogues using an extensive collection of movie scripts.
 
 Key features include:
 - **Data Preprocessing:** Tokenization, lemmatization, and word embeddings for text processing.
